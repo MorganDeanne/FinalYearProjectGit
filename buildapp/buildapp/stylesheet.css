@@ -1,0 +1,313 @@
+*{
+    font-family: arial;
+}
+body {
+    margin: 0;
+}
+
+h1{
+    font-family: Folio;
+}
+
+h2 {
+    font-size: 20px;
+    color: #695628;
+    padding: 5;
+    margin: 0;
+}
+
+h3 {
+    color: #695628;
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+    color: #695628;
+}
+
+
+header{
+    border-bottom: solid #BE9F57 ;
+}
+
+nav {
+    padding: 0;
+    margin: 10;
+    border-right: solid #BE9F57 ;
+}
+
+ul {
+    font-size: 20px;
+    font-family: Folio;
+}
+
+li {
+    text-decoration: none;
+    list-style: none;
+    
+}
+
+.header_buttons{
+    padding: 0;
+    margin: 10;
+    border-right: solid #BE9F57 ;
+    padding-top: 50;
+}
+.buttons_top{
+    font-family: Folio;
+    background-color: #D2C2A0;
+    width: 200px;
+    margin: 10;
+    border: 0;
+}
+
+.header_socials{
+    padding: 0;
+    margin: 10;
+    border-right: solid #BE9F57 ;
+    padding-top:50;
+}
+
+.soc_img {
+    width: 30;
+}
+
+.soc_acknowledge{
+    font-size: 12;
+}
+
+.header_logo{
+    justify-content: right;
+}
+
+.logo_top {
+    width: 150;
+}
+
+
+.main_content {
+    padding: 0;
+    margin: 10 10 10 10;
+    
+}
+
+.filtersDates { 
+    display: flex;
+    flex-direction: column;
+}
+
+.filter_section{
+    
+}
+
+.dates{
+}
+
+.filters{
+}
+
+
+
+
+ .dateList{
+    padding: 0;
+    margin: 0;
+    border-bottom: solid #D2C2A0 5px;
+    display: flex;
+    align-items:flex-end;
+}
+
+.filter{
+    font-family: Folio;
+    border: solid #D2C2A0 2px;
+    background-color: #fff;
+    margin: 10 5 10 5;
+}
+
+.filter:hover{
+    font-family: Folio;
+    background-color: #D2C2A0;
+}
+
+.date{
+    font-family: Folio;
+    border: solid #D2C2A0 5px;
+    border-bottom: none;
+    background-color: #fff;
+    margin: 0 10 0 10;
+}
+
+.date:hover{
+    font-family: Folio;
+    border: solid #D2C2A0 5px;
+    background-color: #D2C2A0;
+}
+
+.dateactive{
+    
+}
+
+
+#date1{
+    height: 90px;
+}
+
+#date2{
+    height: 90px;
+}
+
+#date3{
+    height: 30px;
+}
+
+#date4{
+    height: 90px;
+}
+
+#date5{
+    height: 60px;
+}
+
+#date6{
+    height: 30px;
+}
+
+.extras{
+    border: 10;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+#clearFilter{
+    font-family: Folio;
+    background-color: #D2C2A0 ;
+    display: flex;
+    width: 150;
+    padding: 10;
+    border: 0;
+    align-self: flex-start;
+}
+
+#viewFav{
+    font-family: Folio;
+    background-color: #D2C2A0 ;
+    width: 150;
+    padding: 10;
+    border: 0;
+    align-self: flex-end;
+}
+
+#results{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.individual_piece{
+    display: block;
+    width: 285;
+    background-color: #F0ECE2;
+    margin: 10;
+}
+
+.individual_piece:hover{
+    display: block;
+    width: 285;
+    background-color: #D2C2A0;
+    margin: 10;
+}
+
+.piece_photo{
+    object-fit: cover;
+    width: 264;
+    height: 152;
+    padding: 10;
+}
+
+.piece_name{
+    padding: 0 10 0 10;
+}
+
+.piece_date{
+    padding: 10;
+}
+
+#results{
+    width: 100%;
+    font-family: Folio;
+    border: solid #D2C2A0 2px;
+    background-color: #fff;
+    margin: 10 0 0 0;
+}
+
+.detailView{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10;
+    width: 50%;
+}
+
+.detail{
+    
+    align-self: flex-start;
+    
+}
+
+#detailPhoto{
+    width: 300;
+    padding: 10;  
+}
+
+#detailName{
+    width: 300;
+    text-align: center;
+}
+
+#detailDate{
+    width: 300;
+    text-align: center;
+}
+
+.detailTitle{
+}
+
+.favButton {
+    width: 250;
+    font-family: Folio;
+    background-color: #BE9F57;
+    margin: 10;
+    border: 0;
+}
+
+.favButton:hover {
+    width: 250;
+    font-family: Folio;
+    color: #fff;
+    background-color: #BE9F57;
+    margin: 10;
+    border: 0;
+}
+
+.removeFavButton{
+    width: 250;
+    font-family: Folio;
+    background-color: #BE9F57;
+    margin: 10;
+    border: 0;
+}
+
+footer {
+  font-size: .7rem;
+  background-color: #D2C2A0;
+  color: #888;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+
+

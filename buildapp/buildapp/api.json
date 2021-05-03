@@ -1,0 +1,172 @@
+[
+			{ 
+            "Factory/Collection": "Flight, Barr & Barr",
+			"Museum Number": "1730",
+			"Name": "Baxter portrait mug",
+			"Artist": "Thomas Baxter",
+			"Date": 1814,
+			"Material": "Soft paste porcelain",
+			"Mark Type": "printed",
+			"Provance": "From the collection of CW Dyson Perrins",
+			"Desc": " Cylindrical straight sided mug, opposite the handle a black painted        silhouette, probably a self portrait of Thomas Baxter. The rest of the outside decorated with a horizontal panel of flowers and rich gilding. Inscribed under the base Septr.1814",
+            "Photo":"piece_img/baxport.jpg"
+            },
+		
+    
+		  {
+			"Factory/Collection": "Flight, Barr & Barr",
+			"Museum Number": "4552",
+			"Name": "Billingsley shell dishes",
+			"Artist": "William Billingsley",
+			"Date": 1808,
+			"Material": "Soft paste porcelain",
+			"Mark Type": "",
+			"Provence": "Donated by the friends of the museum 1982",
+			"Desc": "pair of shell shaped dishes with gilt lobed edge, white ground with central painting of a passion flower on one and a tulip on the other. Wide gold edge.",
+            "Photo":"piece_img/billingsley.png"
+            },
+		
+
+		{
+			"Factory/Collection": "Flight, Barr & Barr",
+			"Museum Number": "1836",
+			"Name": "Cottage nightlight",
+			"Artist": "",
+			"Date": 1820,
+			"Material": "Soft paste porcelain",
+			"Mark Type": "printed",
+			"Provence": "From the collection of CW Dyson Perrins",
+			"Desc": "Small cottage which lifts off the grassy base. Painted in natural colours with a thatched roof, grey windows and delicately painted flowers against the walls.",
+            "Photo":"piece_img/cottage.png"
+		},
+
+		{
+			"Factory/Collection": "Dr Wall",
+			"Museum Number": "5540",
+			"Name": "Armor bowl",
+			"Artist": "",
+			"Date": 1770,
+			"Material": "Soft paste porcelain",
+			"Mark Type": "painted underglaze blue",
+			"Provance": "From the Coke bequest",
+			"Desc": "Circular bowl with turquoise ground and 3 gilt edged panels each with a different style of decoration., dry blue flowers, birds and cut fruit and Teniers style figures. Floral spray to interior, gold edge and band round foot.",
+            "Photo":"piece_img/armorbowl.png"
+		},
+
+		{
+			"Factory/Collection": "Dr Wall",
+			"Museum Number": "1",
+			"Name": "Bearded Immortal",
+			"Artist": "",
+			"Date": 1750,
+			"Material": "Soft paste porcelain",
+			"Mark Type": "",
+			"Provance": "From the collection of C.W.Dyson Perrins",
+			"Desc": "White porcelain figure wearing flowing robes and holding a fly whisk in his right hand. Long beard. Oval base.",
+            "Photo":"piece_img/beardedmortal.jpg"
+		},
+
+		{
+			"Factory/Collection": "Dr Wall",
+			"Museum Number": "262",
+			"Name": "Eloping bride coffee cup and saucer",
+			"Artist": "",
+			"Date": 1765,
+			"Material": "Soft paste porcelain",
+			"Mark Type": "Painted underglaze blue",
+			"Provance": "From the collection of C.W.Dyson Perrins",
+			"Desc": "Painted",
+            "Photo":"piece_img/eloping.png"
+		},
+
+		{
+			"Factory/Collection": "Kerr and Binns",
+			"Museum Number": "2223",
+			"Name": "Charlotte de Corday cup and saucer",
+			"Artist": "",
+			"Date": 1852,
+			"Material": "Bone China",
+			"Mark Type": "Printed",
+			"Provance": "From the Works Museum Collection",
+			"Desc": "Egg shell thin bone china cup saucer and cover with a delicate china bow on the lid. The cup painted with a portrait in an oval panel, gilded swags on the cover and stand.",
+            "Photo":"piece_img/charlotte.png"
+		},
+
+		{
+			"Factory/Collection": "Kerr and Binns",
+			"Museum Number": "2249",
+			"Name": "Queen Victoria service comports",
+			"Artist": "Thomas Bott",
+			"Date": 1867,
+			"Material": "Bone China",
+			"Mark Type": "printed",
+			"Provance": "From the Works Museum Collection",
+			"Desc": " A pair of tall comports with central flared flower tubes decorated with turquoise enamel and chased and tooled gold. The three large and three small panels painted with Classical subjects in white enamel.",
+            "Photo":"piece_img/queenvictoria.png"
+		},
+
+		{
+			"Factory/Collection": "Kerr and Binns",
+			"Museum Number": "2320",
+			"Name": "The Angel of the Annunciation",
+			"Artist": "Josiah Rushton",
+			"Date": 1871,
+			"Material": "Bone China",
+			"Mark Type": "",
+			"Provance": "",
+			"Desc": "Signed on the reverse 'Josiah Rushton Worcester 1871'",
+            "Photo":"piece_img/theangel.png"
+		},
+
+		{
+			"Factory/Collection": "Arts of Islam",
+			"Museum Number": "6499",
+			"Name": "Nawab of Balawalpur Plate",
+			"Artist": "",
+			"Date": 1932,
+			"Material": "Bone China",
+			"Mark Type": "printed",
+			"Provance": "Royal Worcester Porcelain Works",
+			"Desc": "The Nawab of Bahawalpur had a service produced for him in the 1930s. The design follows that of typical armourial ware, with the coat of arms of the Nawab of Bahawalpur (a region of Pakistan) with their motto in Persian: 'the faithful friend'. The plate is Prince shaped, and in Bone China with black ground and printed gold and green enamel. The lower two quarters of the crest are reversed.",
+            "Photo":"piece_img/nawab.jpg"
+		},
+
+		{
+			"Factory/Collection": "Flight, Barr & Barr",
+			"Museum Number": "1708",
+			"Name": "Shah of Persia teacup",
+			"Artist": "",
+			"Date": 1825,
+			"Material": "Soft paste porcelain",
+			"Mark Type": "hand written script",
+			"Provance": "From the Works Museum Collection",
+			"Desc": "tea cup with green ground and full coloured portrait medallion framed in flat gold. The portrait of a bearded man bedecked in jewellery is of Fath 'Ali Shah Qajar who ruled over Persia from 1798 until 1834.Inscribed under the base, Futteh Ali Shah, King of Persia.",
+            "Photo":"piece_img/shah.jpg"
+		},
+
+		{
+			"Factory/Collection": "Arts of Islam",
+			"Museum Number": "2615",
+			"Name": "Large poppies vase",
+			"Artist": "Edward Raby",
+			"Date": 1892,
+			"Material": "Glazed Parian",
+			"Mark Type": "Printed in puce",
+			"Provance": "From the Works Museum Collection 2155",
+			"Desc": "Persian style pencilled ivory and painted poppies and corn by Edward Raby, raised gold spot outline. Handles and neck pierced stained ivory. Cover with gold crown form knob.",
+            "Photo":"piece_img/largepoppies.jpg"
+		},
+
+		{
+			"Factory/Collection": "Candle Snuffer",
+			"Museum Number": "2654",
+			"Name": "Mr Punch Extinguisher",
+			"Artist": "",
+			"Date": 1882,
+			"Material": "Parian",
+			"Mark Type": "Printed in green",
+			"Provance": "From the Works Museum Collection 2201",
+			"Desc": "Very rare extinguisher, Mr.Punch wears a curled pointed hat and a striped top. He has a wide grin and clenches his hands in front of him. Painted in full colour.",
+            "Photo":"piece_img/mrpunch.png"
+		}
+]
